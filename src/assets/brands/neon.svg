@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_3);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" x1=".42" y1="884.64" x2="198.16" y2="884.64" gradientTransform="translate(0 909.64) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#35a1da"/>
+      <stop offset="1" stop-color="#4ac3c9"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M25,2.9C11.2,2.9,0,14.09,0,27.9c0,6.63,2.63,12.98,7.31,17.67,2.03,2.04,5.33,2.04,7.37,0,2.04-2.03,2.04-5.33,0-7.37-5.69-5.69-5.69-14.92,0-20.61,5.69-5.69,14.92-5.69,20.61,0,5.69,5.69,5.69,14.91,0,20.61-2.03,2.04-2.03,5.34,0,7.37s5.34,2.03,7.37,0h0c9.76-9.77,9.75-25.59-.02-35.35-4.69-4.68-11.04-7.31-17.67-7.31Z"/>
+</svg>
