@@ -65,7 +65,7 @@ describe('<AddCard />', () => {
 
     cy.submitCard()
     cy.wait(2000)
-    cy.get('.notice-success').should('be.visible').and('have.text', 'Cartão cadastrado com sucesso!')
+    cy.get('.notice-success').should('be.visible').and('have.text', 'Cartão cadastrado com suceo!')
 
   })
 
