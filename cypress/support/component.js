@@ -17,8 +17,11 @@
 import './commands'
 import '../../src/index.css'
 import { mount } from 'cypress/react'
+import chaiColors from 'chai-colors';
 
 Cypress.Commands.add('mount', mount)
+
+chai.use(chaiColors);
 
 // Example use:
 // cy.mount(<MyComponent />)

@@ -22,13 +22,13 @@ const Header = () => {
           {/* Navigation */}
           <div className="flex space-x-4">
             <Link
-              to="/"
+              to="/login"
               className="text-zinc-300 hover:text-white text-sm font-medium transition-colors px-4 py-2 rounded-lg hover:bg-zinc-800"
             >
               Login
             </Link>
             <Link
-              to="/"
+              to="/register"
               className="bg-lime-300 text-zinc-900 px-4 py-2 rounded-lg font-semibold text-sm hover:bg-lime-400 transition-colors"
             >
               Cadastro

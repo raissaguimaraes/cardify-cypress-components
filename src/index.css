@@ -21,3 +21,8 @@
     transform: rotateY(180deg);
   }
 }
+
+@theme {
+  --color-primary: #FF77E9; /* Define a custom color named 'primary' */
+  --color-blue: #24a0ed; /* Define another custom color named 'secondary' */
+}

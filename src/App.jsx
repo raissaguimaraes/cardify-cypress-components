@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import Landing from './pages/Landing';
 import AddCard from './pages/AddCard';
 import Upgrade from './pages/Upgrade';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 function App() {
   return (
@@ -14,8 +16,10 @@ function App() {
         <main className="flex-1">
           <Routes>
             <Route path="/" element={<Landing />} />
+            <Route path="/login" element={<Login />} />
             <Route path="/add" element={<AddCard />} />
             <Route path="/upgrade" element={<Upgrade />} />
+            <Route path="/register" element={<Register />} />
           </Routes>
         </main>
         <Footer />
